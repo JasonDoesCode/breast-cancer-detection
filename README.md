@@ -1,7 +1,7 @@
 # ⚕️ Breast Cancer Detection
 
 ### Important Links:
-[Presentation](https://drive.google.com/file/d/1ISclG82G5Fyu6_awWP0dvFQaQwfycuMJ/view?usp=sharing) | [Final Report](https://drive.google.com/file/d/1iTvXP5N6P-rrD0CWn8Go-HFFm5HwZSEs/view?usp=sharing)
+[Presentation](https://drive.google.com/file/d/1ISclG82G5Fyu6_awWP0dvFQaQwfycuMJ/view?usp=sharing) | [Final Report](https://drive.google.com/file/d/1iTvXP5N6P-rrD0CWn8Go-HFFm5HwZSEs/view?usp=sharing) | [Script](https://github.com/JasonDoesCode/breast-cancer-detection/blob/main/Script.R)
 
 ### Socials:
 [LinkedIn](https://www.linkedin.com/in/imjasonleo/) | [Github](https://github.com/JasonDoesCode) | [Twitter](https://twitter.com/JasonDoesCode)
