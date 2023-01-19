@@ -1,4 +1,10 @@
-# Breast Cancer Detection
+# ⚕️ Breast Cancer Detection
+
+### Important Links:
+[Presentation](https://drive.google.com/file/d/1ISclG82G5Fyu6_awWP0dvFQaQwfycuMJ/view?usp=sharing) | [Final Report](https://drive.google.com/file/d/1iTvXP5N6P-rrD0CWn8Go-HFFm5HwZSEs/view?usp=sharing)
+
+### Socials:
+[LinkedIn](https://www.linkedin.com/in/imjasonleo/) | [Github](https://github.com/JasonDoesCode) | [Twitter](https://twitter.com/JasonDoesCode)
 
 We utlized Logistic Regression to determine if a tumor was malignant or benign based on 9 related parameters. The following sections serve to provide a quick overview of the steps taken during this project. The complete lists of steps and results can be found in the Final Report.pdf file. Additionally, an even shorter overview can be found in the Presentation.pdf file, which also contains helpful visualizations that showcase our findings.
 
